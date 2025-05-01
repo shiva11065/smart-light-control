@@ -1,1 +1,3 @@
-# smart-light-control
+# Smart Light Control
+
+This is the project
